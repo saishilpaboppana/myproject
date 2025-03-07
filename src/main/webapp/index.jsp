@@ -4,7 +4,7 @@
     <title>Welcome to Maven Web App</title>
 </head>
 <body>
-    <h1>Hemmmuuuuuuuuuuuuuuuuuu</h1>
-<h1>Em Chesthunnsvvvv </h1>
+    <h1>Welcome to my web Application </h1>
+<h1>my first project</h1>
 </body>
 </html>
